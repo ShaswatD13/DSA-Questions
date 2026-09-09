@@ -1,22 +1,24 @@
 {
-  "totalSolved": 1,
+  "totalSolved": 2,
   "currentStreak": 1,
   "maxStreak": 1,
-  "lastSyncDate": "2026-09-08",
+  "lastSyncDate": "2026-09-10",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 0,
+    "easy": 1,
     "medium": 1,
     "hard": 0,
     "basic": 0
   },
   "syncedProblems": {
-    "GeeksForGeeks_Get_Max_from_Stack": true
+    "GeeksForGeeks_Get_Max_from_Stack": true,
+    "LeetCode_Binary_Tree_Postorder_Traversal": true
   },
   "activityHistory": {
-    "2026-09-08": 1
+    "2026-09-08": 1,
+    "2026-09-10": 1
   },
   "todayProblems": [
-    "Get Max from Stack"
+    "Binary Tree Postorder Traversal"
   ]
 }
