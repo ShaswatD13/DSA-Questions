@@ -5,3 +5,4 @@
 | 3 | [N-ary Tree Preorder Traversal](./LeetCode/Easy/N-ary%20Tree%20Preorder%20Traversal) | [LeetCode](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | Easy | 10 Sept 2026 | 02:50 am |
 | 4 | [N-ary Tree Postorder Traversal](./LeetCode/Easy/N-ary%20Tree%20Postorder%20Traversal) | [LeetCode](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | Easy | 10 Sept 2026 | 02:56 am |
 | 5 | [Remove All Adjacent Duplicates in String II](./LeetCode/Medium/Remove%20All%20Adjacent%20Duplicates%20in%20String%20II) | [LeetCode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | Medium | 10 Sept 2026 | 11:34 pm |
+| 6 | [Evaluate Reverse Polish Notation](./LeetCode/Medium/Evaluate%20Reverse%20Polish%20Notation) | [LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | 11 Sept 2026 | 12:36 am |
