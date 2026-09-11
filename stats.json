@@ -1,11 +1,11 @@
 {
-  "totalSolved": 6,
-  "currentStreak": 2,
-  "maxStreak": 2,
-  "lastSyncDate": "2026-09-11",
+  "totalSolved": 7,
+  "currentStreak": 3,
+  "maxStreak": 3,
+  "lastSyncDate": "2026-09-12",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 3,
+    "easy": 4,
     "medium": 3,
     "hard": 0,
     "basic": 0
@@ -16,14 +16,16 @@
     "LeetCode_N-ary_Tree_Preorder_Traversal": true,
     "LeetCode_N-ary_Tree_Postorder_Traversal": true,
     "LeetCode_Remove_All_Adjacent_Duplicates_in_String_II": true,
-    "LeetCode_Evaluate_Reverse_Polish_Notation": true
+    "LeetCode_Evaluate_Reverse_Polish_Notation": true,
+    "LeetCode_Search_in_a_Binary_Search_Tree": true
   },
   "activityHistory": {
     "2026-09-08": 1,
     "2026-09-10": 4,
-    "2026-09-11": 1
+    "2026-09-11": 1,
+    "2026-09-12": 1
   },
   "todayProblems": [
-    "Evaluate Reverse Polish Notation"
+    "Search in a Binary Search Tree"
   ]
 }
