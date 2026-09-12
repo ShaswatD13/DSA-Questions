@@ -1,12 +1,12 @@
 {
-  "totalSolved": 8,
+  "totalSolved": 9,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-09-12",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 4,
-    "medium": 4,
+    "medium": 5,
     "hard": 0,
     "basic": 0
   },
@@ -18,16 +18,18 @@
     "LeetCode_Remove_All_Adjacent_Duplicates_in_String_II": true,
     "LeetCode_Evaluate_Reverse_Polish_Notation": true,
     "LeetCode_Search_in_a_Binary_Search_Tree": true,
-    "LeetCode_Kth_Smallest_Element_in_a_BST": true
+    "LeetCode_Kth_Smallest_Element_in_a_BST": true,
+    "LeetCode_Trim_a_Binary_Search_Tree": true
   },
   "activityHistory": {
     "2026-09-08": 1,
     "2026-09-10": 4,
     "2026-09-11": 1,
-    "2026-09-12": 2
+    "2026-09-12": 3
   },
   "todayProblems": [
     "Search in a Binary Search Tree",
-    "Kth Smallest Element in a BST"
+    "Kth Smallest Element in a BST",
+    "Trim a Binary Search Tree"
   ]
 }

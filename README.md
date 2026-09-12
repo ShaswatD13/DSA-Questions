@@ -8,3 +8,4 @@
 | 6 | [Evaluate Reverse Polish Notation](./LeetCode/Medium/Evaluate%20Reverse%20Polish%20Notation) | [LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | 11 Sept 2026 | 12:36 am |
 | 7 | [Search in a Binary Search Tree](./LeetCode/Easy/Search%20in%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | 12 Sept 2026 | 02:57 am |
 | 8 | [Kth Smallest Element in a BST](./LeetCode/Medium/Kth%20Smallest%20Element%20in%20a%20BST) | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | 12 Sept 2026 | 03:15 am |
+| 9 | [Trim a Binary Search Tree](./LeetCode/Medium/Trim%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/trim-a-binary-search-tree/) | Medium | 12 Sept 2026 | 01:17 pm |
