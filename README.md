@@ -10,3 +10,4 @@
 | 8 | [Kth Smallest Element in a BST](./LeetCode/Medium/Kth%20Smallest%20Element%20in%20a%20BST) | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | 12 Sept 2026 | 03:15 am |
 | 9 | [Trim a Binary Search Tree](./LeetCode/Medium/Trim%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/trim-a-binary-search-tree/) | Medium | 12 Sept 2026 | 01:17 pm |
 | 10 | [Validate Binary Search Tree](./LeetCode/Medium/Validate%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | 12 Sept 2026 | 04:05 pm |
+| 11 | [Range Sum of BST](./LeetCode/Easy/Range%20Sum%20of%20BST) | [LeetCode](https://leetcode.com/problems/range-sum-of-bst/) | Easy | 12 Sept 2026 | 04:15 pm |
