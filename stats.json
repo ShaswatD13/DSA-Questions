@@ -1,12 +1,12 @@
 {
-  "totalSolved": 11,
-  "currentStreak": 3,
-  "maxStreak": 3,
-  "lastSyncDate": "2026-09-12",
-  "todayCount": 5,
+  "totalSolved": 12,
+  "currentStreak": 4,
+  "maxStreak": 4,
+  "lastSyncDate": "2026-09-13",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 6,
+    "medium": 7,
     "hard": 0,
     "basic": 0
   },
@@ -21,19 +21,17 @@
     "LeetCode_Kth_Smallest_Element_in_a_BST": true,
     "LeetCode_Trim_a_Binary_Search_Tree": true,
     "LeetCode_Validate_Binary_Search_Tree": true,
-    "LeetCode_Range_Sum_of_BST": true
+    "LeetCode_Range_Sum_of_BST": true,
+    "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Tree": true
   },
   "activityHistory": {
     "2026-09-08": 1,
     "2026-09-10": 4,
     "2026-09-11": 1,
-    "2026-09-12": 5
+    "2026-09-12": 5,
+    "2026-09-13": 1
   },
   "todayProblems": [
-    "Search in a Binary Search Tree",
-    "Kth Smallest Element in a BST",
-    "Trim a Binary Search Tree",
-    "Validate Binary Search Tree",
-    "Range Sum of BST"
+    "Lowest Common Ancestor of a Binary Tree"
   ]
 }
