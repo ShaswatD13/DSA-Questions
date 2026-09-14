@@ -1,12 +1,12 @@
 {
-  "totalSolved": 13,
-  "currentStreak": 4,
+  "totalSolved": 14,
+  "currentStreak": 1,
   "maxStreak": 4,
-  "lastSyncDate": "2026-09-13",
-  "todayCount": 2,
+  "lastSyncDate": "2026-09-15",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 8,
+    "medium": 9,
     "hard": 0,
     "basic": 0
   },
@@ -23,17 +23,18 @@
     "LeetCode_Validate_Binary_Search_Tree": true,
     "LeetCode_Range_Sum_of_BST": true,
     "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Tree": true,
-    "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Search_Tree": true
+    "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Search_Tree": true,
+    "LeetCode_Delete_Node_in_a_BST": true
   },
   "activityHistory": {
     "2026-09-08": 1,
     "2026-09-10": 4,
     "2026-09-11": 1,
     "2026-09-12": 5,
-    "2026-09-13": 2
+    "2026-09-13": 2,
+    "2026-09-15": 1
   },
   "todayProblems": [
-    "Lowest Common Ancestor of a Binary Tree",
-    "Lowest Common Ancestor of a Binary Search Tree"
+    "Delete Node in a BST"
   ]
 }
