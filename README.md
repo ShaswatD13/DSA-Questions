@@ -14,3 +14,4 @@
 | 12 | [Lowest Common Ancestor of a Binary Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | 13 Sept 2026 | 03:53 pm |
 | 13 | [Lowest Common Ancestor of a Binary Search Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | 13 Sept 2026 | 04:01 pm |
 | 14 | [Delete Node in a BST](./LeetCode/Medium/Delete%20Node%20in%20a%20BST) | [LeetCode](https://leetcode.com/problems/delete-node-in-a-bst/) | Medium | 15 Sept 2026 | 12:24 am |
+| 15 | [Insert into a Binary Search Tree](./LeetCode/Medium/Insert%20into%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium | 15 Sept 2026 | 12:50 pm |
