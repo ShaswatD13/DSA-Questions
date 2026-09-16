@@ -16,3 +16,4 @@
 | 14 | [Delete Node in a BST](./LeetCode/Medium/Delete%20Node%20in%20a%20BST) | [LeetCode](https://leetcode.com/problems/delete-node-in-a-bst/) | Medium | 15 Sept 2026 | 12:24 am |
 | 15 | [Insert into a Binary Search Tree](./LeetCode/Medium/Insert%20into%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium | 15 Sept 2026 | 12:50 pm |
 | 16 | [Reverse first K of a Queue](./GeeksForGeeks/Easy/Reverse%20first%20K%20of%20a%20Queue) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) | Easy | 16 Sept 2026 | 02:16 am |
+| 17 | [Previous Smaller Element](./GeeksForGeeks/Medium/Previous%20Smaller%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/previous-smaller-element/1) | Medium | 17 Sept 2026 | 03:04 am |
