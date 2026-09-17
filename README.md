@@ -18,3 +18,4 @@
 | 16 | [Reverse first K of a Queue](./GeeksForGeeks/Easy/Reverse%20first%20K%20of%20a%20Queue) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) | Easy | 16 Sept 2026 | 02:16 am |
 | 17 | [Previous Smaller Element](./GeeksForGeeks/Medium/Previous%20Smaller%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/previous-smaller-element/1) | Medium | 17 Sept 2026 | 03:04 am |
 | 18 | [Stream First Non-repeating](./GeeksForGeeks/Medium/Stream%20First%20Non-repeating) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1) | Medium | 17 Sept 2026 | 06:04 pm |
+| 19 | [First Negative in Windows of Size K](./GeeksForGeeks/Medium/First%20Negative%20in%20Windows%20of%20Size%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) | Medium | 17 Sept 2026 | 07:10 pm |
