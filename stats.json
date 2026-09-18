@@ -1,11 +1,11 @@
 {
-  "totalSolved": 19,
-  "currentStreak": 3,
+  "totalSolved": 20,
+  "currentStreak": 4,
   "maxStreak": 4,
-  "lastSyncDate": "2026-09-17",
-  "todayCount": 3,
+  "lastSyncDate": "2026-09-18",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 6,
+    "easy": 7,
     "medium": 13,
     "hard": 0,
     "basic": 0
@@ -29,7 +29,8 @@
     "GeeksForGeeks_Reverse_first_K_of_a_Queue": true,
     "GeeksForGeeks_Previous_Smaller_Element": true,
     "GeeksForGeeks_Stream_First_Non-repeating": true,
-    "GeeksForGeeks_First_Negative_in_Windows_of_Size_K": true
+    "GeeksForGeeks_First_Negative_in_Windows_of_Size_K": true,
+    "LeetCode_Remove_All_Adjacent_Duplicates_In_String": true
   },
   "activityHistory": {
     "2026-09-08": 1,
@@ -39,11 +40,10 @@
     "2026-09-13": 2,
     "2026-09-15": 2,
     "2026-09-16": 1,
-    "2026-09-17": 3
+    "2026-09-17": 3,
+    "2026-09-18": 1
   },
   "todayProblems": [
-    "Previous Smaller Element",
-    "Stream First Non-repeating",
-    "First Negative in Windows of Size K"
+    "Remove All Adjacent Duplicates In String"
   ]
 }

@@ -19,3 +19,4 @@
 | 17 | [Previous Smaller Element](./GeeksForGeeks/Medium/Previous%20Smaller%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/previous-smaller-element/1) | Medium | 17 Sept 2026 | 03:04 am |
 | 18 | [Stream First Non-repeating](./GeeksForGeeks/Medium/Stream%20First%20Non-repeating) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1) | Medium | 17 Sept 2026 | 06:04 pm |
 | 19 | [First Negative in Windows of Size K](./GeeksForGeeks/Medium/First%20Negative%20in%20Windows%20of%20Size%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) | Medium | 17 Sept 2026 | 07:10 pm |
+| 20 | [Remove All Adjacent Duplicates In String](./LeetCode/Easy/Remove%20All%20Adjacent%20Duplicates%20In%20String) | [LeetCode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy | 18 Sept 2026 | 07:15 am |
