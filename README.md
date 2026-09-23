@@ -23,3 +23,4 @@
 | 21 | [Building Heap from Array](./GeeksForGeeks/Easy/Building%20Heap%20from%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/heapify-the-vector--102013/1) | Easy | 22 Sept 2026 | 10:51 am |
 | 22 | [Size of Binary Tree](./GeeksForGeeks/Basic/Size%20of%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/size-of-binary-tree/1) | Basic | 23 Sept 2026 | 09:40 am |
 | 23 | [Sum of Binary Tree](./GeeksForGeeks/Basic/Sum%20of%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-of-binary-tree/1) | Basic | 23 Sept 2026 | 09:58 am |
+| 24 | [Height of Binary Tree](./GeeksForGeeks/Easy/Height%20of%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/height-of-binary-tree/1) | Easy | 23 Sept 2026 | 10:47 am |
