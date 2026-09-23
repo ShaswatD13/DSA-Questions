@@ -21,3 +21,4 @@
 | 19 | [First Negative in Windows of Size K](./GeeksForGeeks/Medium/First%20Negative%20in%20Windows%20of%20Size%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) | Medium | 17 Sept 2026 | 07:10 pm |
 | 20 | [Remove All Adjacent Duplicates In String](./LeetCode/Easy/Remove%20All%20Adjacent%20Duplicates%20In%20String) | [LeetCode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy | 18 Sept 2026 | 07:15 am |
 | 21 | [Building Heap from Array](./GeeksForGeeks/Easy/Building%20Heap%20from%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/heapify-the-vector--102013/1) | Easy | 22 Sept 2026 | 10:51 am |
+| 22 | [Size of Binary Tree](./GeeksForGeeks/Basic/Size%20of%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/size-of-binary-tree/1) | Basic | 23 Sept 2026 | 09:40 am |
