@@ -25,3 +25,4 @@
 | 23 | [Sum of Binary Tree](./GeeksForGeeks/Basic/Sum%20of%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-of-binary-tree/1) | Basic | 23 Sept 2026 | 09:58 am |
 | 24 | [Height of Binary Tree](./GeeksForGeeks/Easy/Height%20of%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/height-of-binary-tree/1) | Easy | 23 Sept 2026 | 10:47 am |
 | 25 | [Maximum Depth of Binary Tree](./LeetCode/Easy/Maximum%20Depth%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | 23 Sept 2026 | 12:13 pm |
+| 26 | [Max and Min in Binary Tree](./GeeksForGeeks/Easy/Max%20and%20Min%20in%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-and-min-element-in-binary-tree/1) | Easy | 23 Sept 2026 | 12:25 pm |
