@@ -22,3 +22,4 @@
 | 20 | [Remove All Adjacent Duplicates In String](./LeetCode/Easy/Remove%20All%20Adjacent%20Duplicates%20In%20String) | [LeetCode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy | 18 Sept 2026 | 07:15 am |
 | 21 | [Building Heap from Array](./GeeksForGeeks/Easy/Building%20Heap%20from%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/heapify-the-vector--102013/1) | Easy | 22 Sept 2026 | 10:51 am |
 | 22 | [Size of Binary Tree](./GeeksForGeeks/Basic/Size%20of%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/size-of-binary-tree/1) | Basic | 23 Sept 2026 | 09:40 am |
+| 23 | [Sum of Binary Tree](./GeeksForGeeks/Basic/Sum%20of%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-of-binary-tree/1) | Basic | 23 Sept 2026 | 09:58 am |
