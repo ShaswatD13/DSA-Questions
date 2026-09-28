@@ -30,3 +30,4 @@
 | 28 | [Count Internal Nodes in Tree](./GeeksForGeeks/Basic/Count%20Internal%20Nodes%20in%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-non-leaf-nodes-in-tree/1?page=1&category=Tree&sortBy=difficulty) | Basic | 24 Sept 2026 | 07:02 pm |
 | 29 | [Count Leaves in Binary Tree](./GeeksForGeeks/Basic/Count%20Leaves%20in%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1?page=1&category=Tree&sortBy=difficulty) | Basic | 24 Sept 2026 | 07:10 pm |
 | 30 | [Largest Rectangle in Histogram](./LeetCode/Hard/Largest%20Rectangle%20in%20Histogram) | [LeetCode](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | 29 Sept 2026 | 01:11 am |
+| 31 | [Maximal Rectangle](./LeetCode/Hard/Maximal%20Rectangle) | [LeetCode](https://leetcode.com/problems/maximal-rectangle/) | Hard | 29 Sept 2026 | 01:13 am |
