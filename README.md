@@ -34,3 +34,4 @@
 | 32 | [Maximal Square](./LeetCode/Medium/Maximal%20Square) | [LeetCode](https://leetcode.com/problems/maximal-square/) | Medium | 29 Sept 2026 | 01:14 am |
 | 33 | [Same Tree](./LeetCode/Easy/Same%20Tree) | [LeetCode](https://leetcode.com/problems/same-tree/) | Easy | 29 Sept 2026 | 10:49 am |
 | 34 | [Number of Students Unable to Eat Lunch](./LeetCode/Easy/Number%20of%20Students%20Unable%20to%20Eat%20Lunch) | [LeetCode](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | Easy | 29 Sept 2026 | 06:59 pm |
+| 35 | [Queue using Linked List](./GeeksForGeeks/Basic/Queue%20using%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1) | Basic | 29 Sept 2026 | 08:06 pm |

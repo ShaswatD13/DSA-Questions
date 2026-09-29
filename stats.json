@@ -1,14 +1,14 @@
 {
-  "totalSolved": 34,
+  "totalSolved": 35,
   "currentStreak": 1,
   "maxStreak": 4,
   "lastSyncDate": "2026-09-29",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 14,
     "medium": 14,
     "hard": 2,
-    "basic": 4
+    "basic": 5
   },
   "syncedProblems": {
     "GeeksForGeeks_Get_Max_from_Stack": true,
@@ -44,7 +44,8 @@
     "LeetCode_Maximal_Rectangle": true,
     "LeetCode_Maximal_Square": true,
     "LeetCode_Same_Tree": true,
-    "LeetCode_Number_of_Students_Unable_to_Eat_Lunch": true
+    "LeetCode_Number_of_Students_Unable_to_Eat_Lunch": true,
+    "GeeksForGeeks_Queue_using_Linked_List": true
   },
   "activityHistory": {
     "2026-09-08": 1,
@@ -59,13 +60,14 @@
     "2026-09-22": 1,
     "2026-09-23": 6,
     "2026-09-24": 2,
-    "2026-09-29": 5
+    "2026-09-29": 6
   },
   "todayProblems": [
     "Largest Rectangle in Histogram",
     "Maximal Rectangle",
     "Maximal Square",
     "Same Tree",
-    "Number of Students Unable to Eat Lunch"
+    "Number of Students Unable to Eat Lunch",
+    "Queue using Linked List"
   ]
 }
