@@ -1,11 +1,11 @@
 {
-  "totalSolved": 32,
+  "totalSolved": 33,
   "currentStreak": 1,
   "maxStreak": 4,
   "lastSyncDate": "2026-09-29",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 12,
+    "easy": 13,
     "medium": 14,
     "hard": 2,
     "basic": 4
@@ -42,7 +42,8 @@
     "GeeksForGeeks_Count_Leaves_in_Binary_Tree": true,
     "LeetCode_Largest_Rectangle_in_Histogram": true,
     "LeetCode_Maximal_Rectangle": true,
-    "LeetCode_Maximal_Square": true
+    "LeetCode_Maximal_Square": true,
+    "LeetCode_Same_Tree": true
   },
   "activityHistory": {
     "2026-09-08": 1,
@@ -57,11 +58,12 @@
     "2026-09-22": 1,
     "2026-09-23": 6,
     "2026-09-24": 2,
-    "2026-09-29": 3
+    "2026-09-29": 4
   },
   "todayProblems": [
     "Largest Rectangle in Histogram",
     "Maximal Rectangle",
-    "Maximal Square"
+    "Maximal Square",
+    "Same Tree"
   ]
 }
