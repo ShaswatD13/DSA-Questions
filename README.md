@@ -36,3 +36,4 @@
 | 34 | [Number of Students Unable to Eat Lunch](./LeetCode/Easy/Number%20of%20Students%20Unable%20to%20Eat%20Lunch) | [LeetCode](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | Easy | 29 Sept 2026 | 06:59 pm |
 | 35 | [Queue using Linked List](./GeeksForGeeks/Basic/Queue%20using%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1) | Basic | 29 Sept 2026 | 08:06 pm |
 | 36 | [Convert Sorted Array to Binary Search Tree](./LeetCode/Easy/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy | 01 Oct 2026 | 02:19 am |
+| 37 | [Array with All Palindromes](./GeeksForGeeks/Basic/Array%20with%20All%20Palindromes) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/palindromic-array-1587115620/1?page=1&category=Arrays&sortBy=difficulty) | Basic | 02 Oct 2026 | 09:05 pm |
