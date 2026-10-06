@@ -39,3 +39,4 @@
 | 37 | [Array with All Palindromes](./GeeksForGeeks/Basic/Array%20with%20All%20Palindromes) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/palindromic-array-1587115620/1?page=1&category=Arrays&sortBy=difficulty) | Basic | 02 Oct 2026 | 09:05 pm |
 | 38 | [Design MinMax Queue](./GeeksForGeeks/Medium/Design%20MinMax%20Queue) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/design-minmax-queue/1?page=1&category=Deque&sortBy=submissions) | Medium | 07 Oct 2026 | 01:46 am |
 | 39 | [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) | [LeetCode](https://leetcode.com/problems/search-insert-position/) | Easy | 07 Oct 2026 | 01:55 am |
+| 40 | [Closest in Sorted Array](./GeeksForGeeks/Easy/Closest%20in%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-closest-number5513/1?page=1&category=Binary%20Search&sortBy=difficulty) | Easy | 07 Oct 2026 | 02:11 am |
