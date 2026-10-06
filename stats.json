@@ -1,12 +1,12 @@
 {
-  "totalSolved": 37,
-  "currentStreak": 2,
+  "totalSolved": 38,
+  "currentStreak": 1,
   "maxStreak": 4,
-  "lastSyncDate": "2026-10-02",
+  "lastSyncDate": "2026-10-07",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 15,
-    "medium": 14,
+    "medium": 15,
     "hard": 2,
     "basic": 6
   },
@@ -47,7 +47,8 @@
     "LeetCode_Number_of_Students_Unable_to_Eat_Lunch": true,
     "GeeksForGeeks_Queue_using_Linked_List": true,
     "LeetCode_Convert_Sorted_Array_to_Binary_Search_Tree": true,
-    "GeeksForGeeks_Array_with_All_Palindromes": true
+    "GeeksForGeeks_Array_with_All_Palindromes": true,
+    "GeeksForGeeks_Design_MinMax_Queue": true
   },
   "activityHistory": {
     "2026-09-08": 1,
@@ -64,9 +65,10 @@
     "2026-09-24": 2,
     "2026-09-29": 6,
     "2026-10-01": 1,
-    "2026-10-02": 1
+    "2026-10-02": 1,
+    "2026-10-07": 1
   },
   "todayProblems": [
-    "Array with All Palindromes"
+    "Design MinMax Queue"
   ]
 }
