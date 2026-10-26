@@ -1,12 +1,12 @@
 {
-  "totalSolved": 41,
+  "totalSolved": 42,
   "currentStreak": 1,
   "maxStreak": 4,
   "lastSyncDate": "2026-10-26",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 17,
-    "medium": 16,
+    "medium": 17,
     "hard": 2,
     "basic": 6
   },
@@ -51,7 +51,8 @@
     "GeeksForGeeks_Design_MinMax_Queue": true,
     "LeetCode_Search_Insert_Position": true,
     "GeeksForGeeks_Closest_in_Sorted_Array": true,
-    "LeetCode_Kth_Largest_Element_in_an_Array": true
+    "LeetCode_Kth_Largest_Element_in_an_Array": true,
+    "GeeksForGeeks_Min_Cost_to_Connect_Ropes": true
   },
   "activityHistory": {
     "2026-09-08": 1,
@@ -70,9 +71,10 @@
     "2026-10-01": 1,
     "2026-10-02": 1,
     "2026-10-07": 3,
-    "2026-10-26": 1
+    "2026-10-26": 2
   },
   "todayProblems": [
-    "Kth Largest Element in an Array"
+    "Kth Largest Element in an Array",
+    "Min Cost to Connect Ropes"
   ]
 }
