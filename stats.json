@@ -1,12 +1,12 @@
 {
-  "totalSolved": 44,
-  "currentStreak": 1,
+  "totalSolved": 45,
+  "currentStreak": 2,
   "maxStreak": 4,
-  "lastSyncDate": "2026-10-26",
-  "todayCount": 4,
+  "lastSyncDate": "2026-10-27",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 18,
-    "medium": 18,
+    "medium": 19,
     "hard": 2,
     "basic": 6
   },
@@ -54,7 +54,8 @@
     "LeetCode_Kth_Largest_Element_in_an_Array": true,
     "GeeksForGeeks_Min_Cost_to_Connect_Ropes": true,
     "LeetCode_Jump_Game": true,
-    "LeetCode_Last_Stone_Weight": true
+    "LeetCode_Last_Stone_Weight": true,
+    "LeetCode_Recover_Binary_Search_Tree": true
   },
   "activityHistory": {
     "2026-09-08": 1,
@@ -73,12 +74,10 @@
     "2026-10-01": 1,
     "2026-10-02": 1,
     "2026-10-07": 3,
-    "2026-10-26": 4
+    "2026-10-26": 4,
+    "2026-10-27": 1
   },
   "todayProblems": [
-    "Kth Largest Element in an Array",
-    "Min Cost to Connect Ropes",
-    "Jump Game",
-    "Last Stone Weight"
+    "Recover Binary Search Tree"
   ]
 }

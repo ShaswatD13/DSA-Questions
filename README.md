@@ -44,3 +44,4 @@
 | 42 | [Min Cost to Connect Ropes](./GeeksForGeeks/Medium/Min%20Cost%20to%20Connect%20Ropes) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1) | Medium | 26 Oct 2026 | 07:57 pm |
 | 43 | [Jump Game](./LeetCode/Medium/Jump%20Game) | [LeetCode](https://leetcode.com/problems/jump-game/) | Medium | 26 Oct 2026 | 09:40 pm |
 | 44 | [Last Stone Weight](./LeetCode/Easy/Last%20Stone%20Weight) | [LeetCode](https://leetcode.com/problems/last-stone-weight/) | Easy | 26 Oct 2026 | 10:55 pm |
+| 45 | [Recover Binary Search Tree](./LeetCode/Medium/Recover%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/recover-binary-search-tree/) | Medium | 27 Oct 2026 | 01:01 am |
