@@ -40,3 +40,4 @@
 | 38 | [Design MinMax Queue](./GeeksForGeeks/Medium/Design%20MinMax%20Queue) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/design-minmax-queue/1?page=1&category=Deque&sortBy=submissions) | Medium | 07 Oct 2026 | 01:46 am |
 | 39 | [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) | [LeetCode](https://leetcode.com/problems/search-insert-position/) | Easy | 07 Oct 2026 | 01:55 am |
 | 40 | [Closest in Sorted Array](./GeeksForGeeks/Easy/Closest%20in%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-closest-number5513/1?page=1&category=Binary%20Search&sortBy=difficulty) | Easy | 07 Oct 2026 | 02:11 am |
+| 41 | [Kth Largest Element in an Array](./LeetCode/Medium/Kth%20Largest%20Element%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | 26 Oct 2026 | 07:00 pm |
