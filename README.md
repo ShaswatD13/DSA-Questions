@@ -42,3 +42,4 @@
 | 40 | [Closest in Sorted Array](./GeeksForGeeks/Easy/Closest%20in%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-closest-number5513/1?page=1&category=Binary%20Search&sortBy=difficulty) | Easy | 07 Oct 2026 | 02:11 am |
 | 41 | [Kth Largest Element in an Array](./LeetCode/Medium/Kth%20Largest%20Element%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | 26 Oct 2026 | 07:00 pm |
 | 42 | [Min Cost to Connect Ropes](./GeeksForGeeks/Medium/Min%20Cost%20to%20Connect%20Ropes) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1) | Medium | 26 Oct 2026 | 07:57 pm |
+| 43 | [Jump Game](./LeetCode/Medium/Jump%20Game) | [LeetCode](https://leetcode.com/problems/jump-game/) | Medium | 26 Oct 2026 | 09:40 pm |
