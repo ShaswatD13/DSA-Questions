@@ -45,3 +45,4 @@
 | 43 | [Jump Game](./LeetCode/Medium/Jump%20Game) | [LeetCode](https://leetcode.com/problems/jump-game/) | Medium | 26 Oct 2026 | 09:40 pm |
 | 44 | [Last Stone Weight](./LeetCode/Easy/Last%20Stone%20Weight) | [LeetCode](https://leetcode.com/problems/last-stone-weight/) | Easy | 26 Oct 2026 | 10:55 pm |
 | 45 | [Recover Binary Search Tree](./LeetCode/Medium/Recover%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/recover-binary-search-tree/) | Medium | 27 Oct 2026 | 01:01 am |
+| 46 | [Earliest Possible Day of Full Bloom](./LeetCode/Hard/Earliest%20Possible%20Day%20of%20Full%20Bloom) | [LeetCode](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) | Hard | 27 Oct 2026 | 07:20 am |

@@ -1,13 +1,13 @@
 {
-  "totalSolved": 45,
+  "totalSolved": 46,
   "currentStreak": 2,
   "maxStreak": 4,
   "lastSyncDate": "2026-10-27",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 18,
     "medium": 19,
-    "hard": 2,
+    "hard": 3,
     "basic": 6
   },
   "syncedProblems": {
@@ -55,7 +55,8 @@
     "GeeksForGeeks_Min_Cost_to_Connect_Ropes": true,
     "LeetCode_Jump_Game": true,
     "LeetCode_Last_Stone_Weight": true,
-    "LeetCode_Recover_Binary_Search_Tree": true
+    "LeetCode_Recover_Binary_Search_Tree": true,
+    "LeetCode_Earliest_Possible_Day_of_Full_Bloom": true
   },
   "activityHistory": {
     "2026-09-08": 1,
@@ -75,9 +76,10 @@
     "2026-10-02": 1,
     "2026-10-07": 3,
     "2026-10-26": 4,
-    "2026-10-27": 1
+    "2026-10-27": 2
   },
   "todayProblems": [
-    "Recover Binary Search Tree"
+    "Recover Binary Search Tree",
+    "Earliest Possible Day of Full Bloom"
   ]
 }
