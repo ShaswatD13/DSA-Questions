@@ -1,11 +1,11 @@
 {
-  "totalSolved": 47,
-  "currentStreak": 2,
+  "totalSolved": 48,
+  "currentStreak": 1,
   "maxStreak": 4,
-  "lastSyncDate": "2026-10-27",
-  "todayCount": 3,
+  "lastSyncDate": "2026-11-06",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 18,
+    "easy": 19,
     "medium": 20,
     "hard": 3,
     "basic": 6
@@ -57,7 +57,8 @@
     "LeetCode_Last_Stone_Weight": true,
     "LeetCode_Recover_Binary_Search_Tree": true,
     "LeetCode_Earliest_Possible_Day_of_Full_Bloom": true,
-    "LeetCode_Jump_Game_II": true
+    "LeetCode_Jump_Game_II": true,
+    "LeetCode_Make_Array_Zero_by_Subtracting_Equal_Amounts": true
   },
   "activityHistory": {
     "2026-09-08": 1,
@@ -77,11 +78,10 @@
     "2026-10-02": 1,
     "2026-10-07": 3,
     "2026-10-26": 4,
-    "2026-10-27": 3
+    "2026-10-27": 3,
+    "2026-11-06": 1
   },
   "todayProblems": [
-    "Recover Binary Search Tree",
-    "Earliest Possible Day of Full Bloom",
-    "Jump Game II"
+    "Make Array Zero by Subtracting Equal Amounts"
   ]
 }
