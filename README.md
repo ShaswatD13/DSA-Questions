@@ -48,3 +48,4 @@
 | 46 | [Earliest Possible Day of Full Bloom](./LeetCode/Hard/Earliest%20Possible%20Day%20of%20Full%20Bloom) | [LeetCode](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) | Hard | 27 Oct 2026 | 07:20 am |
 | 47 | [Jump Game II](./LeetCode/Medium/Jump%20Game%20II) | [LeetCode](https://leetcode.com/problems/jump-game-ii/) | Medium | 27 Oct 2026 | 07:56 am |
 | 48 | [Make Array Zero by Subtracting Equal Amounts](./LeetCode/Easy/Make%20Array%20Zero%20by%20Subtracting%20Equal%20Amounts) | [LeetCode](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/) | Easy | 06 Nov 2026 | 09:53 pm |
+| 49 | [Maximum Product of Two Elements in an Array](./LeetCode/Easy/Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy | 06 Nov 2026 | 10:14 pm |
