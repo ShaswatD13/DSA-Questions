@@ -49,3 +49,4 @@
 | 47 | [Jump Game II](./LeetCode/Medium/Jump%20Game%20II) | [LeetCode](https://leetcode.com/problems/jump-game-ii/) | Medium | 27 Oct 2026 | 07:56 am |
 | 48 | [Make Array Zero by Subtracting Equal Amounts](./LeetCode/Easy/Make%20Array%20Zero%20by%20Subtracting%20Equal%20Amounts) | [LeetCode](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/) | Easy | 06 Nov 2026 | 09:53 pm |
 | 49 | [Maximum Product of Two Elements in an Array](./LeetCode/Easy/Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy | 06 Nov 2026 | 10:14 pm |
+| 50 | [Balanced Binary Tree](./LeetCode/Easy/Balanced%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/balanced-binary-tree/) | Easy | 14 Nov 2026 | 12:29 am |
