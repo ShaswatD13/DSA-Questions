@@ -1,11 +1,11 @@
 {
-  "totalSolved": 52,
+  "totalSolved": 53,
   "currentStreak": 1,
   "maxStreak": 4,
-  "lastSyncDate": "2026-11-24",
+  "lastSyncDate": "2026-11-28",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 22,
+    "easy": 23,
     "medium": 21,
     "hard": 3,
     "basic": 6
@@ -62,7 +62,8 @@
     "LeetCode_Maximum_Product_of_Two_Elements_in_an_Array": true,
     "LeetCode_Balanced_Binary_Tree": true,
     "GeeksForGeeks_Police_and_Thieves": true,
-    "LeetCode_Middle_of_the_Linked_List": true
+    "LeetCode_Middle_of_the_Linked_List": true,
+    "LeetCode_Climbing_Stairs": true
   },
   "activityHistory": {
     "2026-09-08": 1,
@@ -86,9 +87,10 @@
     "2026-11-06": 2,
     "2026-11-14": 1,
     "2026-11-15": 1,
-    "2026-11-24": 1
+    "2026-11-24": 1,
+    "2026-11-28": 1
   },
   "todayProblems": [
-    "Middle of the Linked List"
+    "Climbing Stairs"
   ]
 }

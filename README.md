@@ -52,3 +52,4 @@
 | 50 | [Balanced Binary Tree](./LeetCode/Easy/Balanced%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/balanced-binary-tree/) | Easy | 14 Nov 2026 | 12:29 am |
 | 51 | [Police and Thieves](./GeeksForGeeks/Medium/Police%20and%20Thieves) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/police-and-thieves--141631/1) | Medium | 15 Nov 2026 | 06:30 pm |
 | 52 | [Middle of the Linked List](./LeetCode/Easy/Middle%20of%20the%20Linked%20List) | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | 24 Nov 2026 | 08:47 am |
+| 53 | [Climbing Stairs](./LeetCode/Easy/Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/climbing-stairs/) | Easy | 28 Nov 2026 | 05:37 pm |
